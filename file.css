@@ -1,0 +1,51 @@
+.container{
+    width: 1000px;
+    margin: auto;
+}
+.logo{
+    width: 300px;
+}
+.regolation{
+    margin: auto;
+    border: 150px;
+    font-size: 50px;
+    padding: 50px;
+}
+.riga{
+    margin-right: 350px;
+    color: orange;
+}
+.verde{
+    margin: auto;
+    border: 150px;
+    color: Chartreuse;
+}
+.rosso{
+    margin: auto;
+    border: 150px;
+    color: tomato;
+    margin-right: 500px;
+}
+body{
+    background-image: url(background.jpg);
+    margin: 20px;
+    border: 400px;
+}
+li{
+    color: white;
+    font-family: "georgia",serif;
+    font-size: 20px;
+}
+h4{
+    color: white;
+    font-family: "georgia";
+
+}
+button{
+    font-style: normal;
+    font-size: 20px;
+}
+h1{
+font-family: "georgia";
+font-size: 50px;
+}
